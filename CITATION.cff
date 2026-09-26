@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Construction Site Series"
+message: "If you use this series, please cite the relevant volume."
+type: dataset
+authors:
+  - family-names: Mamun
+    given-names: Syed Muntasir
+    orcid: "https://orcid.org/0000-0001-6845-2853"
+date-released: "2026-09-27"
+url: "https://github.com/drmuntasir/construction-site-series"
+license: CC-BY-4.0
+keywords:
+  - learning
+  - synaptic tagging
+  - reconsolidation
+  - write-budget
+  - cognitive sovereignty
+  - KSCCN
